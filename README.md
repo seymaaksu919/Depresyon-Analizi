@@ -2,7 +2,6 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8" />
-  <title>Öğrenci Depresyon Tahmini - KNN Modeli</title>
 </head>
 <body>
 
